@@ -1,4 +1,4 @@
-# History of money, crytocurrency and credit scoring
+# History of money, cryptocurrency and credit scoring
 ## Credit means many things.  In the context of money, it means whether someone who has borrowed money will pay back as promised and on time.
 ![title](images/Jiao_zi.jpg)
 
