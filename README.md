@@ -2,7 +2,7 @@
 
 Global debt, as of 3Q2018, is close to $244 trillion.  Yes, you read it right.
 
-Our national debt, as of January, 2019, is $22 trillion, a 10% increase comparing with two years ago.  Please see our blog post "debt | 债务" https://www.magicmathmandarin.org/debt-债务/, and "Math of our national debt" https://www.magicmathmandarin.org/math-for-our-national-debt/
+Our national debt, as of January, 2019, is $22 trillion, a 10% increase comparing with two years ago.  Please see our blog post [debt | 债务](https://www.magicmathmandarin.org/debt-债务/), and "Math of our national debt" https://www.magicmathmandarin.org/math-for-our-national-debt/
 
 The credit market is extremely important to the global economy.
 
