@@ -1,5 +1,13 @@
-# History of money, cryptocurrency and credit scoring
-## Credit means many things.  In the context of money, it means whether someone who has borrowed money will pay back as promised and on time.
+## Credit means many things.  In the context of money, it means whether someone who has borrowed money will pay back as promised and on time.  
+
+Global debt, as of 3Q2018, is close to $244 trillion.  Yes, you read it right.
+
+Our national debt, as of January, 2019, is $22 trillion, a 10% increase comparing with two years ago.  Please see our blog post "debt | 债务" https://www.magicmathmandarin.org/debt-债务/, and "Math of our national debt" https://www.magicmathmandarin.org/math-for-our-national-debt/
+
+The credit market is extremely important to the global economy.
+
+We will use Python and a series of Jupyter Notebooks to explore various public data including Department of Treasury, Federal Reserve Bank, and Lending Club loan data. 
+
 ![title](images/Jiao_zi.jpg)
 
 ## Did you know that paper money 纸币 was first used in ancient China around the 11th century 北宋朝?  
@@ -15,6 +23,3 @@ Isn't it amazing that their nationwide standard currency of paper money was back
 
 "All these pieces of paper are, issued with as much solemnity and authority as if they were of pure gold or silver... with these pieces of paper, made as I have described, Kublai Khan causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends... and indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold"
 — Marco Polo, The Travels of Marco Polo
-
-
-We will explore public loans data from Lending Club with Python using Jupyter Notebook. 
