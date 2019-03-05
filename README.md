@@ -11,17 +11,23 @@ We will use Python and a series of Jupyter Notebooks to explore various public d
 The reason why we choose these data sources:
 
 ## [Department of Treasury:](https://home.treasury.gov/) 
+
 <img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal"  width="300" style="float: center;"/>
+
 Nearly all data from the Department of Treasury has some connection to credit.  For example,rates from Treasury bill and notes are the interest rates that the goverment is paying for borrowing the money (from people like you and me, instituions and foreign countries, such as China).
+
 ###  [Interest Rates](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/default.aspx)
+
 - Daily Treasury Yield Curve Rates
 - Daily Treasury Real Yield Curve Rates
 - Daily Treasury Bill Rates
 - Daily Treasury Long-Term Rates
 - Historical Treasury Rates
 ### [Treasury Coupon-Issue and Corporate Bond Yield Curve](https://home.treasury.gov/data/treasury-coupon-issues-and-corporate-bond-yield-curves)
+
 - Treasury Coupon Issues
 - Corporate Bond Yield Curve
+
 ###  Receipts & Outlays
 - [Monthly Treasury Statement](https://www.fiscal.treasury.gov/reports-statements/mts/) 
 - Daily Treasury Statement
@@ -32,8 +38,9 @@ Nearly all data from the Department of Treasury has some connection to credit.  
 ## Monitoring the Economy
 - Economic Data Tables
 
-## [Federal Reserve Banks](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm)
 <img src="https://www.federalreserve.gov/photogallery/files/ec_05.jpg"  width="300" style="float: center;"/>
+
+## [Federal Reserve Banks](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm)
 
 ## Besides current monetary data and credit scoring, we going to learn history of money.  Remember, those who don't know history are fools. 
 ![title](images/Jiao_zi.jpg)
