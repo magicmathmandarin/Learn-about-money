@@ -9,7 +9,7 @@ The credit market is extremely important to the global economy.
 We will use Python and a series of Jupyter Notebooks to explore various public data including Department of Treasury, Federal Reserve Bank, and Lending Club loan data. 
 
 The reason why we choose these data sources:
-<img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal" width="500" width="500"/>
+<img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal" width="500" width="300"/>
 
 ## [Department of Treasury:](https://home.treasury.gov/) 
 ###  Interest Rates
@@ -18,10 +18,10 @@ The reason why we choose these data sources:
 - Daily Treasury Bill Rates
 - Daily Treasury Long-Term Rates
 - Historical Treasury Rates
-⋅⋅*  Receipts & Outlays
+###  Receipts & Outlays
 - Monthly Treasury Statement
 - Daily Treasury Statement
-## We are also going to learn history of money.  Remember, those who don't know history are fools. 
+## Besides current monetary data and credit scoring, we going to learn history of money.  Remember, those who don't know history are fools. 
 ![title](images/Jiao_zi.jpg)
 
 ## Did you know that paper money 纸币 was first used in ancient China around the 11th century 北宋朝?  
