@@ -6,12 +6,13 @@ Our national debt, as of January, 2019, is $22 trillion, a 10% increase comparin
 
 The credit market is extremely important to the global economy.
 
-We will use Python and a series of Jupyter Notebooks to explore various public data including Department of Treasury, Federal Reserve Bank, and Lending Club loan data. 
+We will use Python and a series of Jupyter Notebooks to explore various public data including [Department of Treasury](https://home.treasury.gov/), [various Federal Reserve Banks](https://www.federalreserve.gov/aboutthefed.htm), and Lending Club loan data. 
 
 The reason why we choose these data sources:
 <img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal"  width="300" style="float: center;"/>
 
 ## [Department of Treasury:](https://home.treasury.gov/) 
+Nearly all data from the Department of Treasury has some connection to credit.  For example,rates from Treasury bill and notes are the interest rates that the goverment is paying for borrowing the money (from people like you and me, instituions and foreign countries, such as China).
 ###  [Interest Rates](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/default.aspx)
 - Daily Treasury Yield Curve Rates
 - Daily Treasury Real Yield Curve Rates
@@ -22,14 +23,17 @@ The reason why we choose these data sources:
 - Treasury Coupon Issues
 - Corporate Bond Yield Curve
 ###  Receipts & Outlays
-- [Monthly Treasury Statement] (https://www.fiscal.treasury.gov/reports-statements/mts/) 
+- [Monthly Treasury Statement](https://www.fiscal.treasury.gov/reports-statements/mts/) 
 - Daily Treasury Statement
-## How Your Money Is Spent
+### How Your Money Is Spent
 - [USAspending.gov](https://www.usaspending.gov/#/)
 ## National Debt
 - National Debt to the Penny
 ## Monitoring the Economy
 - Economic Data Tables
+<img src="https://www.federalreserve.gov/photogallery/files/ec_05.jpg"  width="300" style="float: center;"/>
+## [Federal Reserve Banks](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm)
+
 ## Besides current monetary data and credit scoring, we going to learn history of money.  Remember, those who don't know history are fools. 
 ![title](images/Jiao_zi.jpg)
 
