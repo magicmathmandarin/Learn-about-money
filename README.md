@@ -1,6 +1,6 @@
 ## Credit means many things.  In the context of money, it means whether someone who has borrowed money will pay back as promised and on time.  
 
-Global debt, as of 3Q2018, is close to $244 trillion.  Yes, you read it right.
+Global debt, as of 3Q2018, is close to *$244 trillion*.  Yes, you read it right.
 
 Our national debt, as of January, 2019, is $22 trillion, a 10% increase comparing with two years ago.  Please see our blog post [debt | 债务](https://www.magicmathmandarin.org/debt-债务/), and [Math of our national debt|国债数学](https://www.magicmathmandarin.org/math-for-our-national-debt/)
 
@@ -33,14 +33,43 @@ Nearly all data from the Department of Treasury has some connection to credit.  
 - Daily Treasury Statement
 ### How Your Money Is Spent
 - [USAspending.gov](https://www.usaspending.gov/#/)
-## National Debt
+### National Debt
 - National Debt to the Penny
-## Monitoring the Economy
+### Monitoring the Economy
 - Economic Data Tables
 
 <img src="https://www.federalreserve.gov/photogallery/files/ec_05.jpg"  width="300" style="float: center;"/>
 
 ## [Federal Reserve Banks](https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm)
+
+Like Department of Treasury, FRB is also a gold mine for high quality macroeconomic and microeconomic credit data.  Because FRB overseas banks, you can access aggregated data on banks too.  
+
+### What exactly is the Federal Reserve Bank?
+The Federal Reserve System is the central bank of the United States. It performs five general functions to promote the effective operation of the U.S. economy.
+
+1. conducts the nation’s monetary policy to promote maximum *employment*, stable prices, and moderate long-term interest rates in the U.S. economy;
+
+2. promotes the stability of the *financial system* and seeks to minimize and contain systemic risks through active monitoring and engagement in the U.S. and abroad;
+
+3. promotes the *safety and soundness of individual financial institutions* and monitors their impact on the financial system as a whole;
+
+4. fosters *payment and settlement system* safety and efficiency through services to the banking industry and the U.S. government that facilitate U.S.-dollar transactions and payments; and
+
+5. promotes consumer protection and community development through consumer-focused supervision and examination, research and analysis of emerging consumer issues and trends, community economic development activities, and the administration of consumer laws and regulations.
+
+### [Payment systems](https://www.federalreserve.gov/paymentsystems.htm)
+Payment systems are critical to credit transaction.  The Federal Reserve and payment stakeholders are collaborating to improve the speed, safety, and efficiency of the U.S. payment system.
+
+### [Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks](https://www.federalreserve.gov/releases/chargeoff/)
+When charge-off and delinquency rates go up, commercial banks suffer big losses.  
+Charge-offs are the value of loans and leases removed from the books and charged against loss reserves. Charge-off rates are annualized, net of recoveries.
+Delinquent loans and leases are those past due thirty days or more and still accruing interest as well as those in nonaccrual status.
+
+### [Assets and Liabilities of Commercial Banks](https://www.federalreserve.gov/releases/h8/current/default.htm)
+
+### [Household Finance](https://www.federalreserve.gov/datadownload/Chart.aspx?rel=G19&series=fdb7cc92045744504cc4c688dc11884b&lastobs=&from=&to=&filetype=csv&label=include&layout=seriescolumn&type=package&pp=Format)
+
+Each of the twelve Federal Reserve Banks have their own specialized data sources, which are quite remarkable.  
 
 ## Besides current monetary data and credit scoring, we going to learn history of money.  Remember, those who don't know history are fools. 
 ![title](images/Jiao_zi.jpg)
