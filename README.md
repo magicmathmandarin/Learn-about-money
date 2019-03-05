@@ -9,7 +9,7 @@ The credit market is extremely important to the global economy.
 We will use Python and a series of Jupyter Notebooks to explore various public data including Department of Treasury, Federal Reserve Bank, and Lending Club loan data. 
 
 The reason why we choose these data sources:
-<img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal" width="500" width="300"/>
+<img src="https://www.treasury.gov/about/budget-performance/strategic-plan/PublishingImages/Treasury-seal.jpg" alt="Department of Treasury-seal"  width="300" style="float: center;"/>
 
 ## [Department of Treasury:](https://home.treasury.gov/) 
 ###  Interest Rates
